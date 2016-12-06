@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Cell()
+comment0.text=\r\n\ Constructor\ for\ the\ Cell\ class\r\n
+comment1.params=_visibleChar
+comment1.target=void\ setCell(char)
+comment1.text=\r\n\ Sets\ the\ specified\ Cell\ to\ a\ different\ character\r\n\ @param\ character\ which\ this\ Cell\ will\ be\ set\ to\r\n
+comment2.params=
+comment2.target=char\ getCell()
+comment2.text=\r\n\ Gets\ the\ character\ within\ this\ Cell\r\n\ @return\ character\ within\ this\ Cell\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ Returns\ a\ string\ representation\ of\ this\ Cell\r\n\ @return\ a\ string\ representation\ of\ the\ Cell\r\n
+numComments=4

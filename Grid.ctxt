@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=i\ j
+comment0.target=Grid(int,\ int)
+comment0.text=\r\n\ Constructor\ for\ the\ Grid\ class.\ \ Establishes\ the\ \r\n\ 2-d\ array\ of\ cells\r\n
+comment1.params=x\ y
+comment1.target=void\ change(int,\ int)
+comment1.text=\r\n\ Changes\ the\ character\ in\ a\ specified\ location\ on\ the\ grid\r\n\ @param\ x\ and\ y\ are\ integers\ which\ specify\ the\ cell\ of\ the\ grid\ to\ change\r\n
+comment2.params=
+comment2.target=void\ changeAll()
+comment2.text=\r\n\ Changes\ every\ instance\ of\ one\ character\ on\ the\ grid\ to\ another\ specified\ character\r\n
+comment3.params=
+comment3.target=int\ countChar()
+comment3.text=\r\n\ Counts\ the\ instances\ of\ a\ specific\ character\ within\ the\ grid\r\n\ @return\ integer\ representing\ the\ number\ of\ times\ a\ character\ appears\ in\ the\ grid\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ Returns\ a\ string\ representation\ of\ this\ grid\r\n\r\n\ @return\ string\ representation\ of\ this\ grid\r\n
+numComments=5

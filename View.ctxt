@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=result
+comment0.target=void\ display(java.lang.String)
+comment0.text=\r\n\ The\ display\ method\ displays\ the\ given\ string\ to\ the\ user\ \r\n\ @param\ result\ a\ string\ to\ be\ displayed\r\n
+comment1.params=
+comment1.target=int\ getRows()
+comment1.text=\r\n\ The\ getRows\ method\ gets\ the\ number\ of\ rows\ in\ this\ game\ \r\n\ @return\ an\ int\ representing\ the\ number\ of\ rows\r\n
+comment2.params=
+comment2.target=int\ getCols()
+comment2.text=\r\n\ The\ getCols\ method\ gets\ the\ number\ of\ columns\ in\ this\ game\ \r\n\ @return\ an\ int\ representing\ the\ number\ of\ columns\r\n
+comment3.params=maxRow
+comment3.target=int\ getRow(int)
+comment3.text=\r\n\ The\ getRow\ method\ gets\ the\ row\ \r\n\ @param\ maxRow\ the\ max\ value\ for\ a\ row\r\n\ @return\ an\ int\ representing\ the\ row\r\n
+comment4.params=maxCol
+comment4.target=int\ getCol(int)
+comment4.text=\r\n\ The\ getCol\ method\ gets\ the\ column\ \r\n\ @param\ maxCol\ the\ max\ value\ for\ a\ column\r\n\ @return\ an\ int\ representing\ the\ column\r\n
+numComments=5
